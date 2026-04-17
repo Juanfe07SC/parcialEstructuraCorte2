@@ -1,4 +1,4 @@
-# Parcial Estructura de Datos
+# Parcial Estructura de Datos 222
 
 Este parcial contiene:
 
@@ -6,4 +6,4 @@ Este parcial contiene:
 - Implementación de una cola
 
 ## Imagen
-![Estructura](https://upload.wikimedia.org/wikipedia/commons/5/5a/Data_stack.svg)
+![Estructura](https://www.pabloyglesias.com/wp-content/uploads/2016/02/muchas-gracias-1024x500.jpg)
