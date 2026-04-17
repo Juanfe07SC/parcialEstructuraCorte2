@@ -25,8 +25,6 @@ let pila = new Pila();
 
 pila.agregar({ nombre: "Juan", edad: 24 });
 pila.agregar({ nombre: "Claudia", edad: 21 });
-
 pila.mostrar();
-
 pila.eliminar();
 pila.mostrar();
